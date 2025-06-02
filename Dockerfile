@@ -1,4 +1,4 @@
-FROM alpine:3.20.3
+FROM alpine:3.22.0
 
 LABEL repository="https://github.com/DikaArdnt/dnscontrol-action"
 LABEL maintainer="greyrat.dev <admin@greyrat.dev>"
